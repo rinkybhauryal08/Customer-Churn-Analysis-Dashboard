@@ -67,7 +67,13 @@ The final Power BI dashboard provides an interactive view of the analysis, allow
 <img width="467" height="284" alt="customer churn dashboard" src="https://github.com/user-attachments/assets/dee1b591-3aac-4dfc-9cfc-8f35fdb28309" />
 
 
-## 📁 Project Structure
+## 📁 Repository Contents
+- Customer_churn_Analysis.pbix
+- SQL_Queries.sql
+- Data_Cleaning.ipynb
+- Customer_churn_Dataset.csv
+- Dashboard Screenshot
+- README.md
 
 
 ## 💡 Project Outcome
