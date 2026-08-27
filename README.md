@@ -87,29 +87,6 @@ Dashboard Preview
 
 <img width="467" height="284" alt="customer churn dashboard" src="https://github.com/user-attachments/assets/dee1b591-3aac-4dfc-9cfc-8f35fdb28309" />
 
-
-📁 Project Structure
-
-Customer-Churn-Analysis/
-│
-├── data/
-│   ├── raw_data.xlsx
-│   └── clean_data.csv
-│
-├── python/
-│   └── data_cleaning.ipynb
-│
-├── sql/
-│   └── churn_analysis.sql
-│
-├── powerbi/
-│   └── customer_churn_dashboard.pbix
-│
-├── images/
-│   └── dashboard-preview.png
-│
-└── README.md
-
 💡 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow using multiple industry-relevant tools. It combines data preparation, Python-based cleaning, SQL analysis, and Power BI visualization to transform raw customer data into meaningful and actionable insights.
