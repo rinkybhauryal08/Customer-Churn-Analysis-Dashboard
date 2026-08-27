@@ -1,12 +1,12 @@
-Customer Churn Analysis Dashboard
+**Customer Churn Analysis Dashboard**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes customer churn data to identify patterns, understand the factors associated with customer attrition, and present key business insights through an interactive Power BI dashboard.
 
 The project follows an end-to-end data analytics workflow, starting with raw data preparation in Excel and ending with SQL-based analysis and Power BI visualization.
 
-🔄 Project Workflow
+**🔄 Project Workflow**
 
 Raw Data → Excel → Python/Jupyter Notebook → Pandas → Clean CSV → SQL Analysis → Power BI Dashboard
 
@@ -50,7 +50,7 @@ Used charts, KPIs, filters, and other visual elements to make the analysis easy 
 
 Designed the dashboard to highlight important churn patterns and business insights.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
 Microsoft Excel : Raw data review and initial preparation.
 
@@ -65,7 +65,7 @@ SQL : Data analysis and querying.
 Power BI : Data visualization and dashboard creation.
 
 
-📊 Key Analysis 
+**📊 Key Analysis** 
 
 The project focuses on understanding:
 
@@ -79,21 +79,21 @@ Factors associated with higher churn
 
 Key business metrics related to customer retention
 
-📈 Dashboard
+**📈 Dashboard**
 
 The final Power BI dashboard provides an interactive view of the analysis, allowing users to explore customer churn patterns through visualizations, KPIs, and filters.
 
-Dashboard Preview
+**Dashboard Preview**
 
 <img width="467" height="284" alt="customer churn dashboard" src="https://github.com/user-attachments/assets/dee1b591-3aac-4dfc-9cfc-8f35fdb28309" />
 
-💡 Project Outcome
+**💡 Project Outcome**
 
 This project demonstrates an end-to-end data analytics workflow using multiple industry-relevant tools. It combines data preparation, Python-based cleaning, SQL analysis, and Power BI visualization to transform raw customer data into meaningful and actionable insights.
 
-👤 Author
+**👤 Author**
 
 Rinky Bhauryal
 
-Data Analytics Project
+**Data Analytics Project**
 Excel | Python | Pandas | SQL | Power BI
