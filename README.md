@@ -69,24 +69,18 @@ The final Power BI dashboard provides an interactive view of the analysis, allow
 
 ## 📁 Project Structure
 
-```text
-Customer-Churn-Analysis/
-│
-├── data/
-│   ├── raw_data.xlsx
-│   └── clean_data.csv
-│
-├── python/
-│   └── data_cleaning.ipynb
-│
-├── sql/
-│   └── churn_analysis.sql
-│
-├── powerbi/
-│   └── customer_churn_dashboard.pbix
-│
-├── images/
-   └── dashboard-preview.png
 
+## 💡 Project Outcome
 
+This project demonstrates an end-to-end data analytics workflow using *Excel, Python, Pandas, SQL, and Power BI*.
+
+The workflow transforms raw customer data into a cleaned dataset, performs SQL-based analysis, and presents meaningful insights through an interactive Power BI dashboard.
+
+## 👤 Author
+
+*Rinky Bhauryal*
+
+Data Analytics Project
+
+*Excel | Python | Pandas | SQL | Power BI*
 
