@@ -1,4 +1,4 @@
-**Customer Churn Analysis Dashboard
+Customer Churn Analysis Dashboard
 
 📌 Project Overview
 
@@ -96,4 +96,4 @@ This project demonstrates an end-to-end data analytics workflow using multiple i
 Rinky Bhauryal
 
 Data Analytics Project
-Excel | Python | Pandas | SQL | Power BI**
+Excel | Python | Pandas | SQL | Power BI
