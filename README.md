@@ -1,6 +1,6 @@
-##Customer Churn Analysis & Dashboard##
+##Customer Churn Analysis & Dashboard
 
-##📌 Project Overview##
+##📌 Project Overview
 
 **This project analyzes customer churn data to identify patterns, understand the factors associated with customer attrition, and present key business insights through an interactive Power BI dashboard.
 The project follows an end-to-end data analytics workflow, starting with raw data preparation in Excel and ending with SQL-based analysis and Power BI visualization.**
